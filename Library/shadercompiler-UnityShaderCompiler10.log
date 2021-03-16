@@ -1,0 +1,170 @@
+Base path: '/home/shirae/Unity/Hub/Editor/2019.4.20f1/Editor/Data', plugins path '/home/shirae/Unity/Hub/Editor/2019.4.20f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=12919 outsize=4122 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=12807 outsize=3381 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=12807 outsize=3428 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=12807 outsize=3644 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12807 outsize=6413 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12807 outsize=6487 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=17013 outsize=4650 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=17013 outsize=11702 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=7119 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3710 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3792 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3076 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3034 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3595 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3128 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3034 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3557 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3032 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3199 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=4225 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=4226 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=4269 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=5188 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3256 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3941 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=4971 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=6783 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=6974 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=6525 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5723 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=7161 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5743 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5762 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=6356 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5947 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=7409 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5743 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=6613 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=7847 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=7908 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5830 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5889 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=7716 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=8135 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4231 outsize=12872 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=73293 outsize=13209 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=1828 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=1536 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=2068 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=1984 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=1995 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=1982 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=1826 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=2108 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3047 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3258 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3194 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=2998 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3481 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3117 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3711 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3159 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3018 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=2287 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=3809 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=3604 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=2286 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=4122 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=4786 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=3181 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5509 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=6028 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5905 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5648 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=6702 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5930 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5705 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=6061 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=95078 outsize=56993 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=95078 outsize=113354 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=4442 outsize=3053 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4442 outsize=7788 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=11846 outsize=13283 kw=SHADOWS_SPLIT_SPHERES pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process

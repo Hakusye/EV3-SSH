@@ -1,0 +1,5 @@
+﻿<linker>
+ <assembly fullname="Renci.SshNet">
+   <type fullname="Renci.SshNet.Security.KeyExchangeDiffieHellmanGroupExchangeSha256" preserve="all" />
+ </assembly>
+</linker>

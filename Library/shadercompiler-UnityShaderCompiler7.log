@@ -1,0 +1,168 @@
+Base path: '/home/shirae/Unity/Hub/Editor/2019.4.20f1/Editor/Data', plugins path '/home/shirae/Unity/Hub/Editor/2019.4.20f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=12919 outsize=2714 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=12807 outsize=3378 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=12807 outsize=3382 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=12807 outsize=3425 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12807 outsize=6413 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12807 outsize=6485 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12807 outsize=6552 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=17013 outsize=7572 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=17013 outsize=8953 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=17013 outsize=13879 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=26384 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=4987 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=4265 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3674 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3140 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=3146 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79953 outsize=5198 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=10735 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=6585 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=9193 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=7111 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5844 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5745 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=6356 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=7877 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=7409 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=6033 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5983 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=7839 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=8386 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=8537 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=8538 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=5673 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79953 outsize=7846 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=4231 outsize=7704 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=73293 outsize=12024 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=1942 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=2257 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=1944 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=2272 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=2549 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=2105 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=2925 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3251 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3045 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=2960 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3104 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3401 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3091 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=2919 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=57129 outsize=3086 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=3173 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=3443 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=3794 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=3914 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=3182 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=4182 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=2847 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=2806 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=4399 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=6043 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5842 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5788 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5416 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5655 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=6496 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=7225 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5616 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=57129 outsize=5953 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=95078 outsize=6149 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=95078 outsize=58209 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=95078 outsize=16672 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=95078 outsize=12088 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=95078 outsize=15213 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=95078 outsize=6992 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=95078 outsize=8505 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=95078 outsize=8261 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=95078 outsize=22367 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=95078 outsize=63420 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=4442 outsize=3059 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4442 outsize=7990 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
